@@ -19,7 +19,7 @@ public class Menu{
 
     void start(){
         // Ride chosen is Rex Rampage
-        System.out.println("Welcome to Rex Rampage at Time Travellers Theme Park!");
+        System.out.println("Welcome to Rex Rampage!");
 
         printMenu();
 
